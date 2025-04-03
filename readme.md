@@ -175,4 +175,4 @@ Once both servers are running, you can access them at the following URL's:
 Don't forget to star the repository and share your feedback!✨
 
 ## Authors
-- [@RishiBakshii](https://github.com/RishiBakshii)
+Shubham Sonavane
